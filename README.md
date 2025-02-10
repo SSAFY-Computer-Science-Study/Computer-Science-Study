@@ -25,8 +25,8 @@
   - 주차번호-kang `01-kang`
   - 주차번호-lee `01-lee`
 * **파일명**
-  - 주차번호/kang/챕터 `01/kang/컴퓨터 구조 시작하기.md`
-  - 주차번호/lee/챕터 `01/lee/데이터.md`
+  - 주차번호/kang/챕터 `OperatingSystem/01/kang/컴퓨터 구조 시작하기.md`
+  - 주차번호/lee/챕터 `OperatingSystem/01/lee/데이터.md`
 * **commit 메세지**
   - 코드 최초 업로드 시 study: 단원 내용으로 작성
   ```
